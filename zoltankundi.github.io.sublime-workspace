@@ -43,6 +43,15 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1890,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -91,16 +100,15 @@
 	[
 		"/C/wamp64/www/zoltankundi.github.io",
 		"/C/wamp64/www/zoltankundi.github.io/_data",
-		"/C/wamp64/www/zoltankundi.github.io/_layouts",
-		"/C/wamp64/www/zoltankundi.github.io/_site"
+		"/C/wamp64/www/zoltankundi.github.io/_layouts"
 	],
 	"file_history":
 	[
-		"/C/wamp64/www/zoltankundi.github.io/_site/sitemap.xml",
 		"/C/wamp64/www/zoltankundi.github.io/_config.yml",
+		"/C/wamp64/www/zoltankundi.github.io/Gemfile",
+		"/C/wamp64/www/zoltankundi.github.io/_site/sitemap.xml",
 		"/C/wamp64/www/zoltankundi.github.io/_posts/2020-06-01-Hi!.md",
 		"/C/wamp64/www/zoltankundi.github.io/_layouts/default.html",
-		"/C/wamp64/www/zoltankundi.github.io/Gemfile",
 		"/C/wamp64/www/zoltankundi.github.io/_site/zoltankundi.github.io.sublime-project",
 		"/C/wamp64/www/zoltankundi.github.io/_posts/2015-02-17-curabitur.markdown",
 		"/C/wamp64/www/zoltankundi.github.io/_posts/_defaults.md",
@@ -242,7 +250,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -268,6 +276,36 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1258,
+								1258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
