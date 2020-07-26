@@ -1,3 +1,6 @@
 # sublime text project environment
 *.sublime-project
 *.sublime-workspace
+
+_site/
+.sass-cache/
