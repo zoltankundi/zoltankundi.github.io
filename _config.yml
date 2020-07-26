@@ -1,1 +1,72 @@
-theme: jekyll-theme-cayman
+locale: "en-US"
+title: Zoltán Kundi | Personal website # Title of your site
+url: "https://zoltankundi.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: ""
+
+bio:
+  tagline: <strong>I am <a href="/">Zoltán Kundi</a>, <br /> student and a curious mind.</strong>
+  text: >
+    <p>Currently studying automation & applied informatics and pursuing a BA 
+    in systems engineering <a href="https://ac.utcluj.ro">@TUCN</a></p>
+    <p>VP of finance <a href="https://omdsz.ro">@OMDSZ</a><br /> 
+    & former CFO <a href="https://kmdsz.ro">@KMDSZ</a></p>
+    <br />
+    <p>Interests include tech and finance.<p>
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name: Zoltán Kundi
+  email: kundi@zoltankundi.com
+  twitter: zoltankundi # twitter username without the @ symbol
+  instagram: zoltankundi
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Zoltán Kundi
+  links:
+    - https://github.com/zoltankundi
+    - https://twitter.com/zoltankundi
+
+permalink: pretty
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - zoltankundi.github.io.sublime-project
+  - zoltankundi.github.io.sublime-workspace

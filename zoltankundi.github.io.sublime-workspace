@@ -36,19 +36,10 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "_posts/2020-06-01-Hi!.md",
 			"settings":
 			{
-				"buffer_size": 1301,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 93,
+				"buffer_size": 228,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -98,10 +89,29 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/zoltankundi.github.io"
+		"/C/wamp64/www/zoltankundi.github.io",
+		"/C/wamp64/www/zoltankundi.github.io/_data",
+		"/C/wamp64/www/zoltankundi.github.io/_layouts",
+		"/C/wamp64/www/zoltankundi.github.io/_site"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/zoltankundi.github.io/_site/sitemap.xml",
+		"/C/wamp64/www/zoltankundi.github.io/_config.yml",
+		"/C/wamp64/www/zoltankundi.github.io/_posts/2020-06-01-Hi!.md",
+		"/C/wamp64/www/zoltankundi.github.io/_layouts/default.html",
+		"/C/wamp64/www/zoltankundi.github.io/Gemfile",
+		"/C/wamp64/www/zoltankundi.github.io/_site/zoltankundi.github.io.sublime-project",
+		"/C/wamp64/www/zoltankundi.github.io/_posts/2015-02-17-curabitur.markdown",
+		"/C/wamp64/www/zoltankundi.github.io/_posts/_defaults.md",
+		"/C/wamp64/www/zoltankundi.github.io/_data/social.yml",
+		"/C/wamp64/www/zoltankundi.github.io/_posts/2020-06-01-Follow me.md",
+		"/C/wamp64/www/zoltankundi.github.io/_posts/2015-01-30-Lorem.markdown",
+		"/C/wamp64/www/zoltankundi.github.io/404.html",
+		"/C/wamp64/www/zoltankundi.github.io/robots.txt",
+		"/C/wamp64/www/zoltankundi.github.io/_drafts/testing.md",
+		"/C/wamp64/www/zoltankundi.github.io/README.md",
+		"/C/wamp64/www/zoltankundi.github.io/index.html",
 		"/C/wamp64/www/zoltankundi.github.io/.gitignore",
 		"/C/wamp64/www/wordpress/public/wp-config.php",
 		"/C/wamp64/www/wordpress/public/wp-core/wp-blog-header.php",
@@ -200,7 +210,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -214,6 +224,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			">\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -231,60 +242,29 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "_posts/2020-06-01-Hi!.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1301,
+						"buffer_size": 228,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								227,
+								227
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 93,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								47,
-								47
-							]
-						],
-						"settings":
-						{
-							"SL.107.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -298,7 +278,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -343,7 +323,7 @@
 	"project": "zoltankundi.github.io.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -376,6 +356,10 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
 	},
 	"show_minimap": true,
 	"show_open_files": true,
