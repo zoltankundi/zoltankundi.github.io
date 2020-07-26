@@ -36,19 +36,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2020-06-01-Hi!.md",
+			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 228,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 1890,
+				"buffer_size": 3056,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -104,10 +95,12 @@
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/zoltankundi.github.io/_posts/2020-06-01-Hi!.md",
 		"/C/wamp64/www/zoltankundi.github.io/_config.yml",
+		"/C/Program Files/Java/jdk-14.0.1/release",
+		"/C/Program Files/Java/jdk-14/release",
 		"/C/wamp64/www/zoltankundi.github.io/Gemfile",
 		"/C/wamp64/www/zoltankundi.github.io/_site/sitemap.xml",
-		"/C/wamp64/www/zoltankundi.github.io/_posts/2020-06-01-Hi!.md",
 		"/C/wamp64/www/zoltankundi.github.io/_layouts/default.html",
 		"/C/wamp64/www/zoltankundi.github.io/_site/zoltankundi.github.io.sublime-project",
 		"/C/wamp64/www/zoltankundi.github.io/_posts/2015-02-17-curabitur.markdown",
@@ -250,62 +243,35 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2020-06-01-Hi!.md",
-					"semi_transient": false,
+					"file": "_layouts/default.html",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 228,
+						"buffer_size": 3056,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								227,
-								227
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"SL.19.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1890,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1258,
-								1258
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 660.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
