@@ -1,3 +1,6 @@
+My home page
+
+
 jekyll theme: Strata Reloaded
 
 **License**
