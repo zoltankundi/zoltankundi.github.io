@@ -89,12 +89,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/zoltankundi.github.io",
-		"/C/wamp64/www/zoltankundi.github.io/_data",
-		"/C/wamp64/www/zoltankundi.github.io/_layouts"
+		"/C/Users/kundi/Documents/zoltankundi/zoltankundi.github.io",
+		"/C/Users/kundi/Documents/zoltankundi/zoltankundi.github.io/_layouts"
 	],
 	"file_history":
 	[
+		"/C/Users/kundi/Documents/zoltankundi/zoltankundi.github.io/.git/COMMIT_EDITMSG",
+		"/C/Users/kundi/Documents/zoltankundi/zoltankundi.github.io/_posts/2020-06-01-Hi!.md",
 		"/C/wamp64/www/zoltankundi.github.io/_posts/2020-06-01-Hi!.md",
 		"/C/wamp64/www/zoltankundi.github.io/_config.yml",
 		"/C/Program Files/Java/jdk-14.0.1/release",
@@ -211,13 +212,14 @@
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
 		"height": 102.0,
 		"where_history":
 		[
+			"<project>"
 		]
 	},
 	"find_state":
@@ -225,6 +227,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"trough",
+			"troug",
 			">\n"
 		],
 		"highlight": true,
@@ -265,13 +269,10 @@
 						],
 						"settings":
 						{
-							"SL.19.region_keys":
-							[
-							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 510.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -314,6 +315,10 @@
 	"output.SublimeLinter":
 	{
 		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 441.0
 	},
 	"output.find_results":
 	{
